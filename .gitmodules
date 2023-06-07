@@ -1,0 +1,3 @@
+[submodule "SS2023"]
+	path = SS2023
+	url = git@github.com:montahaee/SS2023.git
